@@ -3,5 +3,6 @@
 # Oieee, Sou a Gabi e sou desenvolvedora de Software. 
 
 🧑‍💻 Atualmente estou trabalhando com foco em prover soluções de backend, utilizando Java e Koltin com Spring Boot. 
+
 ✅ Já atuei com Angular, Jsf, .Net Core, Struts, entre outras linguagens de programação. 
 
